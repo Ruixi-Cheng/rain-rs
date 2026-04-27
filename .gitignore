@@ -2,3 +2,4 @@
 rain.c
 **/*.rs.bk
 *.pdb
+.cargo/
